@@ -1,7 +1,7 @@
 
 # Projeto Cadastro de Usuário CRUD  
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/PSONetto/projeto-galeria) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/PSONetto/projeto-crud)  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)  
 
 Uma página de cadastro de usuários que suporta as operações CRUD (Create, Read, Update e Delete).  
 O projeto integra o Bootstrap ao React para adicionar estilos aos componentes da página.  
@@ -31,4 +31,3 @@ Projeto criado utilizando:
 ## Licença  
 
 [ISC](https://choosealicense.com/licenses/isc/)  
-[Imagens](https://pixabay.com/service/terms/#license)  
